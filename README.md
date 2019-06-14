@@ -5,9 +5,7 @@
 
 
 Create documents from Icecat Data
-- [Show product information](#show-product-information)
-- [Download product information](#download-product-information)
-- [Download Free XML Export](#download-free-xml-export)
+
 
 
 # package name reserved
